@@ -12,12 +12,13 @@ This regex pattern is designed to match valid email addresses. It ensures the em
 
 ## Table of Contents
 
-- Anchors
-- Quantifiers
-- Grouping Constructs
-- Bracket Expressions
-- Character Classes
-- Regex Components
+- [Anchors](#anchors)
+- [Quantifiers](#quantifiers)
+- [Grouping Constructs](#grouping-constructs)
+- [Bracket Expressions](#bracket-expressions)
+- [Character Classes](#character-classes)
+- [Regex Components](#regex-components)
+
 
 ## Anchors
 Anchors are used to ensure the match is positioned in a particular place:
@@ -57,3 +58,5 @@ In our pattern, \d within the domain name bracket expression ensures that the do
 ## Author
 
 Written by Joshua Arceo. A budding web developer with a passion for simplifying complex topics. Dive into my other works on my GitHub profile!
+
+https://github.com/arceojoshua1994
